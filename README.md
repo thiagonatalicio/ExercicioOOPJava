@@ -1,2 +1,2 @@
-# ExercicioOOPJava
- Exercio de uma aula sobre OOP do curso do Gustavo Guanabara
+# ExercicioPOOJava
+ Exercio de uma aula sobre POO do curso do Gustavo Guanabara
