@@ -5,6 +5,7 @@ package com.exerciciopoo.br;
 public class Main {
     public static void main(String[] args) {
         Conta conta1 = new Conta();
+        conta1.abrirConta("Thiago", "CP");
 
     }
 }
