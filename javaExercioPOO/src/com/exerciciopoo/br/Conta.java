@@ -8,6 +8,8 @@ public class Conta {
     private boolean status;
 
     public Conta() {
+        setSaldo(0);
+        setStatus(false);
     }
 
     public void abrirConta(String nome, String tipo) {
